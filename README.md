@@ -1,40 +1,28 @@
-# Hello, I'm Ravi Jangid 👋
+# Hi, I'm Ravi Jangid 👋
 
-> "The present is theirs; the future, for which I really worked, is mine." - Nikola Tesla
+> I build AI systems at the intersection of language models and real-world infrastructure — legal-tech RAG platforms, self-hosted voice assistants, and applied ML. I care about systems that are understandable, maintainable, and make efficient use of modest hardware.
 
-## About Me
-I'm a Computer Science & Engineering student passionate about exploring the intersection of software and hardware. My journey in tech is driven by curiosity and a desire to build systems that make a difference.
+## Tech Stack
 
-## 🔭 Areas of Interest
-- **Artificial Intelligence & LLMs** - Exploring the frontiers of machine learning and language models
-- **IoT & Electronics** - Creating smart systems that bridge the digital and physical worlds
-- **Hardware Development** - Building tangible solutions through electronic design
-- **Networking & Server Architecture** - Understanding the infrastructure that powers our connected world
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## 🌱 Currently Learning
-- Advanced Python programming techniques
-- Machine learning model deployment
-- Embedded systems development
-- Cloud infrastructure management
+## Key Projects
 
----
+| Project | Description |
+|---|---|
+| **[LAI](https://github.com/Ravijangid820/LAI)** | Legal AI platform — RAG-powered due diligence assistant for German wind-energy projects |
+| **[LAI-UI](https://github.com/Ravijangid820/LAI-UI)** | React + TypeScript frontend for LAI — real-time chat, document analysis, and DDiQ pipeline |
+| **[Brain-Tumor-Detection](https://github.com/Ravijangid820/Brain-Tumor-Detection)** | PyTorch CNN pipeline for brain MRI classification with Grad-CAM explainability |
+| **[JARVIS](https://github.com/Ravijangid820/jarvis)** | 100% self-hosted voice + text AI assistant — FastAPI, llama.cpp, whisper.cpp, running on a 2011 laptop in Proxmox LXC |
 
-> “I don't care that they stole my idea . . I care that they don't have any of their own”\
-> “If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”
-> 
-> ― Nikola Tesla
+## Connect
 
-<!--
-**Ravijangir820/Ravijangir820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn:** [ravi-jangid-mk42](https://www.linkedin.com/in/ravi-jangid-mk42/)
+- **Website:** [ravi-mk42.me/jarvis](https://ravi-mk42.me/jarvis/)
+- **GitHub:** [Ravijangid820](https://github.com/Ravijangid820)
