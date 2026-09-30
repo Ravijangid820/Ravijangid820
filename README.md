@@ -24,15 +24,16 @@
 |---|---|---|
 | [LAI](https://github.com/Ravijangid820/LAI) | Legal AI platform — RAG + document due diligence for German wind energy | Python, FastAPI, RAG, Qwen |
 | [LAI-UI](https://github.com/Ravijangid820/LAI-UI) | React/TypeScript frontend for LAI legal AI platform | React 19, TS, Tailwind, Vite |
-| [jarvis](https://github.com/Ravijangid820/jarvis) | Fully self-hosted offline voice + text AI assistant (2B LLM on 8GB CPU, no AVX2) — [live demo](http://ravi-mk42.me/jarvis/) | FastAPI, llama.cpp, whisper.cpp, ChromaDB, Piper TTS, React |
+| [jarvis](https://github.com/Ravijangid820/jarvis) | Fully self-hosted offline voice + text AI assistant (2B LLM on 8GB CPU, no AVX2) — [live demo](https://ravi-mk42.me/jarvis/) | FastAPI, llama.cpp, whisper.cpp, ChromaDB, Piper TTS, React |
 | [Brain-Tumor-Detection](https://github.com/Ravijangid820/Brain-Tumor-Detection) | End-to-end MRI tumor classification (custom CNNs + ResNet50, Grad-CAM) | PyTorch, CNN, Grad-CAM |
 | [capstone](https://github.com/Ravijangid820/capstone) | Personalized federated learning (FedBN vs FedAvg) for BraTS brain-tumor segmentation | PyTorch, MONAI, Federated Learning |
+| [VISU](https://ravi-mk42.me/portfolio/projects/visu) | Humanoid robot — conversational AI + servo control (IIEC, VIT-AP, portfolio case study, no public repo yet) | Python, ROS, spaCy, SQLite, Raspberry Pi |
 
 ## 📬 Contact
 
 - 🌐 Portfolio: [ravi-mk42.me](https://ravi-mk42.me)
 - 💻 GitHub: [@Ravijangid820](https://github.com/Ravijangid820)
-- 🤖 JARVIS demo: [ravi-mk42.me/jarvis](http://ravi-mk42.me/jarvis/)
+- 🤖 JARVIS demo: [ravi-mk42.me/jarvis](https://ravi-mk42.me/jarvis/)
 
 ---
 > "The present is theirs; the future, for which I really worked, is mine." — Nikola Tesla
