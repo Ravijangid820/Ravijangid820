@@ -37,3 +37,5 @@
 
 ---
 > "The present is theirs; the future, for which I really worked, is mine." — Nikola Tesla
+
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/655d567f-5e07-4e55-bbf9-34cd5fe6d0aa.jpeg?v=1791400897)](https://www.boot.dev/certificates/655d567f-5e07-4e55-bbf9-34cd5fe6d0aa)
